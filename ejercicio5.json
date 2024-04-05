@@ -1,0 +1,71 @@
+{
+    "videoclubs": [{
+        "facturas":[{
+            "datos-cliente":{
+                "nombre":"Juan",
+                "prApellido":"Flores",
+                "sgApellido":"Torrez",
+                "DNI":"45378348A",
+                "telefono": ["235-634-893","853-489-123"],
+                "identificador-cliente":54342
+            },
+            "datos-factura":{
+                "alquiler":[{
+                    "forma-pago":"tarjeta",
+                    "importe-total":30.05,
+                    "fecha-devolucion":"2024-04-05",
+                    "peliculas":[{
+                        "titulo":"pelicula1",
+                        "genero":"terror",
+                        "duracion":"02:20:00",
+                        "actores":["Ana Gómez Muñoz","Pedro Hernández Achacata"],
+                        "idPelicula":243454,
+                        "valoracion":"Mayores de edad"
+                    },{
+                        "titulo":"pelicula2",
+                        "genero":"comedia, infantil",
+                        "duracion":"01:30:00",
+                        "actores":["Miría Nina Torrez","Juan Mamani Duran"],
+                        "idPelicula":896345,
+                        "valoracion":"Todo público"
+                    }],
+                    "caratula":"caratula1.jpg"
+                }],
+                "compras":[{
+                    "tipo":"",
+                    "DVD":[{
+                        "fecha-salida":"",
+                        "extras":false
+                    }],
+                    "cintas-videos":[{
+                        "titulo":"",
+                        "formato":"",
+                        "rebobinada":false
+                    }]
+                }]
+            }
+        },{
+            "datos-cliente":{
+                "nombre":"Miranda",
+                "prApellido":"Heredia",
+                "sgApellido":"Nina",
+                "DNI":"89346727Q",
+                "telefono": ["864-634-254"],
+                "identificador-cliente":78452
+            },"datos-factura":{
+                "compras":[{
+                    "tipo":"comedia",
+                    "DVD":[{
+                        "fecha-salida":"2024-04-05",
+                        "extras":true
+                    }],
+                    "cintas-videos":[{
+                        "titulo":"",
+                        "formato":"",
+                        "rebobinada":false
+                    }]
+                }]
+            }
+        }]
+    }]
+}

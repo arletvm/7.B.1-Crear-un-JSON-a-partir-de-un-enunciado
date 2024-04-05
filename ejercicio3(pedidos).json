@@ -1,0 +1,27 @@
+{
+    "num-pedido": 233443,
+    "fecha": "2024-04-02",
+    "hora": "14:00:00",
+    "usuario": {
+        "nombre-usuario": "am0304",
+        "nombre-completo":"Arlet Muñoz Gonzales",
+        "direccion-envio": {
+            "calle":"Norte, 11",
+            "poblacion":"Villarrobledo",
+            "cp":"1234"
+        }
+    },
+    "lista-articulos":[{
+        "codigo":"A34B",
+        "descripcion":"Barra de pan",
+        "precio":0.75
+    }, {
+        "codigo":"C87J",
+        "descripcion":"Botella aceite",
+        "precio":10
+    }, {
+        "codigo":"B87Q",
+        "descripcion":"Bolsa de tomate",
+        "precio":2.5
+    }]
+}

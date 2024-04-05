@@ -1,0 +1,15 @@
+{
+    "nombre": "Juan Pardo",
+    "nacimiento": {
+        "dia": "10",
+        "mes": "Abril",
+        "anyo": "1982"
+    },
+    "direccion": {
+        "calle": "caoba, 1",
+        "poblacion": "Madrid",
+        "provincia": "Madrid",
+        "cpostal": 28005
+    },
+    "varon":true
+}

@@ -1,0 +1,58 @@
+{
+    "concesionarios-vehiculos": [{
+        "contacto":{
+            "nombre": "concesionario1",
+            "direccion":"direccion1, c/ calle1",
+            "localidad":"Villarrobledo",
+            "telefonos": [123456789,101112131]
+        },
+        "lista-vehiculos": [{
+            "matricula":"A1B2C3D",
+            "tipo":"turismo",
+            "modelo": "modelo1",
+            "cilindrada": "cilindrada1",
+            "combustible": "Gasolina",
+            "color": "negro",
+            "asegurado": true
+        },{
+            "matricula":"4E5F6G7",
+            "tipo":"furgoneta",
+            "modelo": "modelo2",
+            "cilindrada": "cilindrada2",
+            "combustible": "Diesel",
+            "color": "blanco",
+            "asegurado": true
+        }]
+    },{ "contacto":{
+            "nombre": "concesionario2",
+            "direccion":"direccion2, c/ calle2",
+            "localidad":"Alcazar de San Juan",
+            "telefonos": [415161718,192021222,324252627]
+        },
+        "lista-vehiculos": [{
+            "matricula":"87Y3H3K",
+            "tipo":"turismo",
+            "modelo": "modelo3",
+            "cilindrada": "cilindrada3",
+            "combustible": "Gasolina",
+            "color": "rojo",
+            "asegurado": false
+        },{
+            "matricula":"4H3R4L2",
+            "tipo":"furgoneta",
+            "modelo": "modelo1",
+            "cilindrada": "cilindrada3",
+            "combustible": "Diesel",
+            "color": "gris",
+            "asegurado": true
+        },{
+            "matricula":"N8H8E72",
+            "tipo":"furgoneta",
+            "modelo": "modelo2",
+            "cilindrada": "cilindrada2",
+            "combustible": "Diesel",
+            "color": "negro",
+            "asegurado": false
+        }]
+    }]
+}
