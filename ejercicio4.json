@@ -3,7 +3,7 @@
         "contacto":{
             "nombre": "concesionario1",
             "direccion":"direccion1, c/ calle1",
-            "localidad":"Villarrobledo",
+            "localidad":"localidad1",
             "telefonos": [123456789,101112131]
         },
         "lista-vehiculos": [{
@@ -26,7 +26,7 @@
     },{ "contacto":{
             "nombre": "concesionario2",
             "direccion":"direccion2, c/ calle2",
-            "localidad":"Alcazar de San Juan",
+            "localidad":"localidad2",
             "telefonos": [415161718,192021222,324252627]
         },
         "lista-vehiculos": [{
